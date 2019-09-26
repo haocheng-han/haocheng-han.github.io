@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a undergraduate student major in Information Security in the [School of Cyber Science and Engineering](http://http://infosec.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
+* I am a undergraduate student major in Information Security in the [School of Cyber Science and Engineering](http://infosec.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
 * This is my up-to-date CV and you can contact me at here.
 * My research interest and internship experience mainly lies in NLP, including conversational AI, text analysis and semantic network.
 
