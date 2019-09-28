@@ -8,52 +8,28 @@ redirect_from:
 ---
 
 {% include base_path %}
+**You can see brief discription of me as follows.**
+<font color="#dd0000">You can see more details in my CV(PDF version).</font>
+  Click here to get CV!
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Security, Shanghai Jiao Tong University, 2016 - 2020(excepted)
+  * **Some selected core courses:** Thinking and Approach of Programming (93), Linear Algebra (91), Probability and Statistics (94), Mathematical Fundamentals of Information Security (92), Computer Organization and Architecture (96), Principles of Database (90), Compiler Principles (95), Computer Communication and Network (90), Mobile Communications (93)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Software Engineer Intern
+  * Microsoft STCA Suzhou, China
+  * Duties included: Daily developing of Bot Framework
+  * Supervisor: Greg Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Language: C++, Python, MATLAB, C#
+* Others
+  * Latex
+  * Git
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

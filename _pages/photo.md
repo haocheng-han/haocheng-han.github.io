@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Photos"
 excerpt: "haocheng han photo"
 permalink: /photo/
 author_profile: true
