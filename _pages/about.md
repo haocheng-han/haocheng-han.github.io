@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a undergraduate student major in Information Security in the [School of Cyber Science and Engineering](http://infosec.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
-* This is my up-to-date CV and you can contact me at [here](http://haocheng-han.github.io/contact/).
+* This is my up-to-date [CV](http://haocheng-han.github.io/files/Haocheng_Han_Resume.pdf) and you can contact me at [here](http://haocheng-han.github.io/contact/).
 * My research interest and internship experience mainly lies in NLP, including conversational AI, text analysis and semantic network.
 
 ## Recent news

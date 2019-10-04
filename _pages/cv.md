@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 **You can see brief discription of me as follows.**
 <font color="#dd0000">You can see more details in my CV(PDF version).</font>
-  Click here to get CV!
+  Click [here](http://haocheng-han.github.io/files/Haocheng_Han_Resume.pdf) to get CV!
 
 
 Education
